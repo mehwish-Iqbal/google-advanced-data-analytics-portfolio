@@ -11,6 +11,13 @@ The analysis focuses on identifying monthly lightning strike trends and visualiz
 - Pandas
 - Matplotlib
 - Jupyter Notebook
+-------------------
+peckeges and lybraries
+
+import pandas as pd
+import numpy as np
+import datetime as dt
+import matplotlib.pyplot as plt
 
 ---
 
@@ -23,7 +30,7 @@ The analysis focuses on identifying monthly lightning strike trends and visualiz
 
 ## 📊 Project Workflow
 ✔ Data Loading  
-✔ Data Cleaning  
+✔ add some columns like(month,month_name)  
 ✔ Feature Engineering  
 ✔ GroupBy Aggregation  
 ✔ Data Visualization  
@@ -58,16 +65,9 @@ The analysis focuses on identifying monthly lightning strike trends and visualiz
 ## 📷 Visualization
 The project includes a bar chart showing the number of lightning strikes by month in 2018.
 
----
-
-## 🚀 Future Improvements
-- Add interactive visualizations
-- Perform yearly comparisons
-- Build Power BI/Tableau dashboard
-- Add geographical analysis
 
 ---
 
 ## 🔗 Connect With Me
 - GitHub: Your GitHub Link
-- LinkedIn: Your LinkedIn Link
+- LinkedIn: www.linkedin.com/in/mehwish-iqbal-2584b3395
