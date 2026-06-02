@@ -62,13 +62,18 @@ This project analyzes a dataset of **1,074 unicorn companies** to understand gro
 ## 📈 Visualizations
 
 ### Time to Reach Unicorn Status
-![Time to Unicorn](images/time_to_unicorn_status.png)
+<img width="955" height="653" alt="Time to Reach Unicorn Status by Industry" src="https://github.com/user-attachments/assets/1b2930fa-dfdc-4a2d-896d-44ffbbbee845" />
+
 
 ### Maximum Valuation by Industry
-![Valuation by Industry](images/maximum_valuation_by_industry.png)
+<img width="786" height="644" alt="Maximum Valuation by Industry" src="https://github.com/user-attachments/assets/0b89f442-e31c-4f5c-b1d5-b49f76d92a82" />
+
+![Uploading Time to Reach Unicorn Status by Industry.png…]()
+valuation_by_industry.png)
 
 ### EDA Summary
-![EDA Summary](images/uc_eda_summary.png)
+<img width="568" height="645" alt="EDA Summary" src="https://github.com/user-attachments/assets/cffebefb-e0fb-458e-bb6c-6423a0b7758a" />
+
 ---
 
 ## 📊 Key Insights
