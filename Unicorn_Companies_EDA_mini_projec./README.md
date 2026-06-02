@@ -68,8 +68,7 @@ This project analyzes a dataset of **1,074 unicorn companies** to understand gro
 ### Maximum Valuation by Industry
 <img width="786" height="644" alt="Maximum Valuation by Industry" src="https://github.com/user-attachments/assets/0b89f442-e31c-4f5c-b1d5-b49f76d92a82" />
 
-![Uploading Time to Reach Unicorn Status by Industry.png…]()
-valuation_by_industry.png)
+
 
 ### EDA Summary
 <img width="568" height="645" alt="EDA Summary" src="https://github.com/user-attachments/assets/cffebefb-e0fb-458e-bb6c-6423a0b7758a" />
@@ -107,3 +106,7 @@ For investment strategy, focusing on **industry trends and companies with strong
 ## 🚀 Conclusion
 
 This project demonstrates how data analysis can uncover meaningful investment insights and help understand the dynamics of unicorn company growth across industries.
+
+## contect me 
+linkdin:   www.linkedin.com/in/mehwish-iqbal-2584b3395
+gitHub
