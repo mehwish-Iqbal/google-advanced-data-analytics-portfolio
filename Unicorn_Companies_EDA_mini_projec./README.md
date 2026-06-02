@@ -58,6 +58,17 @@ This project analyzes a dataset of **1,074 unicorn companies** to understand gro
 * 📊 Bar chart: Time taken to reach unicorn status by industry
 * 📊 Bar chart: Maximum valuation per industry
 
+-------
+## 📈 Visualizations
+
+### Time to Reach Unicorn Status
+![Time to Unicorn](images/time_to_unicorn_status.png)
+
+### Maximum Valuation by Industry
+![Valuation by Industry](images/maximum_valuation_by_industry.png)
+
+### EDA Summary
+![EDA Summary](images/uc_eda_summary.png)
 ---
 
 ## 📊 Key Insights
