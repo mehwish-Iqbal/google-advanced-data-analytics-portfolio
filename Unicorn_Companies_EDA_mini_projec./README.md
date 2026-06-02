@@ -109,4 +109,6 @@ This project demonstrates how data analysis can uncover meaningful investment in
 
 ## contect me 
 linkdin:   www.linkedin.com/in/mehwish-iqbal-2584b3395
-gitHub
+
+gitHub:     https://github.com/mehwish-Iqbal/data-analyst-portfolio.git
+
