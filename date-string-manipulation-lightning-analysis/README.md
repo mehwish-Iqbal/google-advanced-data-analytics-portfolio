@@ -76,7 +76,7 @@ These features enabled time-series analysis at multiple levels.
 ## 📊 Exploratory Data Analysis
 
 ### Weekly Lightning Strikes in 2018
-![Weekly Lightning Strikes](<img width="1118" height="349" alt="weeklylightning strikes in 2018" src="https://github.com/user-attachments
+(<img width="1118" height="349" alt="weeklylightning strikes in 2018" src="https://github.com/user-attachments
 /assets/60dbe3a4-2fe0-48d5-a9ee-32f83865200c" />
 )
 
