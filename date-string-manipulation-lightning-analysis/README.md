@@ -76,9 +76,9 @@ These features enabled time-series analysis at multiple levels.
 ## 📊 Exploratory Data Analysis
 
 ### Weekly Lightning Strikes in 2018
-(<img width="1118" height="349" alt="weeklylightning strikes in 2018" src="https://github.com/user-attachments
-/assets/60dbe3a4-2fe0-48d5-a9ee-32f83865200c" />
-)
+![Weekly] <img width="1118" height="349" alt="weeklylightning strikes in 2018" src="https://github.com/user-attachments/assets/90c95002-abe9-4815-a33c-28f6df3341b3" />
+
+
 
 * Filtered data for 2018
 * Grouped lightning strikes by week
@@ -86,17 +86,15 @@ These features enabled time-series analysis at multiple levels.
 * Created a bar chart showing weekly lightning activity throughout the year
 
 ### Quarterly Lightning Strikes (2016–2018)
-![Quarterly Lightning Strikes](<img width="1096" height="406" alt="Quarterly Lightning Strikes (2016–2018)" src="https://github.com/user-attachments/
-assets/6ec1c999-9ffb-4dbb-a2c2-1976f48d3131" />
-)
+![Quarterly]<img width="1096" height="406" alt="Quarterly Lightning Strikes (2016–2018)" src="https://github.com/user-attachments/assets/6ec1c999-9ffb-4dbb-a2c2-1976f48d3131" />
+
 * Aggregated lightning strikes by quarter
 * Compared trends across multiple years
 * Visualized quarterly strike patterns using bar charts
 
-###   with Number of lightning strikes per quarter
-![Bar Chart](<img width="1097" height="410" alt="Number of lightning strikes per quarter" src="https://github.com/user-attachments/assets/
-b639d3fb-6dd8-4850-8cdb-e7d12a31882e" />
-)
+###  Number of lightning strikes per quarter
+![Bar Chart]<img width="1097" height="410" alt="Number of lightning strikes per quarter" src="https://github.com/user-attachments/assets/e81a6084-bc33-4704-af28-af0f8ae05b7d" /> 
+
 
 Created grouped bar charts to compare:
 
@@ -159,6 +157,6 @@ A 50,000-row sampled dataset was created from the original lightning strike data
 
 ## 👩‍💻 Author
 
-**Mehwish Gill**
+**Mehwish Iqbal**
 
 Aspiring Data Analyst | Python | Pandas | Data Visualization | Data Analytics
