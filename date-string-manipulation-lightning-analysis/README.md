@@ -11,6 +11,9 @@ This project demonstrates data cleaning, date string manipulation, feature engin
 The original lightning strike dataset was very large, so a new dataset containing **50,000 randomly sampled records** 
 was created for efficient analysis while preserving the overall data distribution.
 
+### For orignal data here's Google_drive link
+https://drive.google.com/file/d/1yeJPZDUVbdW2-hvyyka_pZuLNxoZZh4W/view?usp=sharing
+
 ### Orignal dataset image
 ![Image] <img width="577" height="585" alt="orignal dataset " src="https://github.com/user-attachments/assets/cb768eee-75b2-4cba-abbb-473da71ceebb" />
 
