@@ -64,6 +64,7 @@ import matplotlib.pyplot as plt
 
 ## 📷 Visualization
 The project includes a bar chart showing the number of lightning strikes by month in 2018.
+![number of lightning strikes by month in 2018]<img width="883" height="705" alt="image" src="https://github.com/user-attachments/assets/e2dd1cbf-2cbb-4be8-a87a-134ac56d1583" />
 
 
 ---
