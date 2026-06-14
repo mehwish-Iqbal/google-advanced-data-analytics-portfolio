@@ -6,7 +6,13 @@ This project explores lightning strike data from 2016 to 2018 using Python and E
 
 By analyzing historical lightning data, this project provides insights into when and where lightning strikes occur most frequently, helping support weather-related research and risk assessment.
 
----
+--- 
+## Datasets links
+csv_1
+https://drive.google.com/file/d/19TEy75E0TaQn-kyS89jgFhkRL-qR_OZX/view?usp=drive_link
+
+csv_2
+https://drive.google.com/file/d/1vgYmw9YZKcRpHU3_YzwtKreZvgplaxh4/view?usp=drive_link
 
 ## 🛠 Tools & Technologies
 
