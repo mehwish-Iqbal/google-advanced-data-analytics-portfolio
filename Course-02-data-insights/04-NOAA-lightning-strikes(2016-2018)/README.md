@@ -8,11 +8,21 @@ By analyzing historical lightning data, this project provides insights into when
 
 --- 
 ## Datasets links
+DUE to large dataset I import links hare's
+
 csv_1
 https://drive.google.com/file/d/19TEy75E0TaQn-kyS89jgFhkRL-qR_OZX/view?usp=drive_link
+<img width="456" height="257" alt="csv 1" src="https://github.com/user-attachments/assets/295d0bef-0788-407f-b0ac-69aa9d0e8402" />
+
+
 
 csv_2
 https://drive.google.com/file/d/1vgYmw9YZKcRpHU3_YzwtKreZvgplaxh4/view?usp=drive_link
+
+<img width="463" height="283" alt="csv2" src="https://github.com/user-attachments/assets/88438346-ef8c-458a-b02d-a19db4c95f28" />
+
+
+
 
 ## 🛠 Tools & Technologies
 
