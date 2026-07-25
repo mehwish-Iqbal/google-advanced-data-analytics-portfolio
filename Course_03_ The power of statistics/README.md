@@ -21,7 +21,7 @@ The analysis follows a structured data analytics workflow and emphasizes data-dr
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 - Business Insight Generation
-- Executive Summary Writing
+  
 
 ---
 
@@ -48,30 +48,68 @@ The analysis follows a structured data analytics workflow and emphasizes data-dr
 
 ---
 
-## 📈 Project Workflow
+# 📈 Project Workflow
 
-- Data Import & Inspection
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-- Hypothesis Testing
-- Visualization
-- Business Insights
-- Recommendations
-- Executive Summary
+✔ Import Libraries
+
+✔ Load Dataset
+
+✔ Data Inspection
+
+✔ Data Cleaning
+
+✔ Exploratory Data Analysis (EDA)
+
+✔ Descriptive Statistics
+
+✔ Data Visualization
+
+✔ Probability Analysis
+
+✔ Hypothesis Testing
+
+✔ Statistical Interpretation
+
+✔ Business Insights
+
+✔ Recommendations
+
+
+---
+## 📊 Key Findings
+
+The statistical analysis revealed several important insights:
+
+- Customers using **credit cards** paid a higher average fare than customers using cash.
+- Hypothesis testing indicated that the difference in average fares between payment methods is **statistically significant**.
+- The analysis suggests that payment method is associated with fare amount.
+- Digital payment users may be more likely to take longer or higher-value trips.
 
 ---
 
-## 💡 Key Learning Outcomes
+## 💼 Business Insights
 
-Through this project, I gained practical experience in:
+- Digital payment customers contribute to higher average revenue per trip.
+- Payment method can provide valuable information about customer travel behavior.
+- Businesses can leverage these insights to improve payment adoption and customer experience.
 
-- Exploring and summarizing datasets
-- Understanding probability concepts
-- Applying statistical methods to real-world business problems
-- Testing hypotheses using statistical techniques
-- Interpreting statistical results for decision making
-- Presenting findings through clear visualizations and business recommendations
+---
+
+## 🚀 Recommendations
+
+- Encourage customers to use digital payment methods.
+- Offer cashback, rewards, or promotional discounts for card payments.
+- Analyze additional factors such as trip distance, trip duration, and tipping behavior.
+- Develop predictive models to estimate fare amounts using multiple trip features.
+
+---
+
+## 📈 Statistical Result
+
+- **Null Hypothesis (H₀):** The average fare amount is the same for all payment methods.
+- **Alternative Hypothesis (H₁):** The average fare amount differs by payment method.
+- **Decision:** Reject the Null Hypothesis.
+- **Conclusion:** Payment method has a statistically significant relationship with fare amount.
 
 ---
 
